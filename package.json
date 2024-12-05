@@ -1,7 +1,7 @@
 {
-  "name": "growi-plugin-embed-youtube",
+  "name": "growi-plugin-embed-site",
   "version": "1.1.1",
-  "description": "GROWI plugin for embed youtube",
+  "description": "GROWI plugin for embed web site",
   "license": "MIT",
   "keywords": [
     "growi",
